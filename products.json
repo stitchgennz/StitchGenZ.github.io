@@ -1,0 +1,18 @@
+[
+  {
+    "id": "t1",
+    "title": "Black Classic Tee",
+    "price": 750,
+    "currency": "BDT",
+    "desc": "100% cotton soft fabric.",
+    "image": "images/tshirt-black.jpg"
+  },
+  {
+    "id": "s1",
+    "title": "Gray Premium Sweatshirt",
+    "price": 1200,
+    "currency": "BDT",
+    "desc": "Warm, cozy, perfect for winter.",
+    "image": "images/sweat-gray.jpg"
+  }
+]
